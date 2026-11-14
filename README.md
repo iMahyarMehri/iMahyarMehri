@@ -1,6 +1,9 @@
 <div align="center">
 
-  <h1>Hi, I'm Mahyar Mehri 👋</h1>
+  <!-- Animated Typing Header -->
+  <a href="https://github.com/iMahyarMehri">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mahyar+Mehri+%F0%9F%91%8B;Junior+Web+%26+Software+Developer+%F0%9F%9A%80;E-Commerce+%26+WordPress+Automation+%E2%9A%99%EF%B8%8F;Bot+Architect+(Discord%2C+Telegram%2C+Bale)+%F0%9F%A4%96;Practical+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
+  </a>
 
   <p>
     <strong>Junior Web & Software Developer</strong> · E-Commerce Automation & Bot Architect
@@ -47,7 +50,7 @@
 
 ---
 
-### 📈 Activity
+### 📈 Activity & Development Pulse
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=iMahyarMehri&theme=tokyonight&hide_border=true&background=0d1117&stroke=f7931a&ring=f7931a&fire=f7931a&currStreakNum=f7931a" height="155" alt="Mahyar's GitHub Streak" />
