@@ -78,14 +78,9 @@ I am a **junior-level web developer and independent software developer** with ha
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iMahyarMehri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f7931a&text_color=c9d1d9&icon_color=f7931a" alt="Mahyar's GitHub Stats" height="175" />
+  <img src="https://github-stats.vercel.app/api?username=iMahyarMehri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f7931a&text_color=c9d1d9&icon_color=f7931a" alt="Mahyar's GitHub Stats" height="175" />
+  &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com/?user=iMahyarMehri&theme=tokyonight&hide_border=true&background=0d1117&stroke=f7931a&ring=f7931a&fire=f7931a&currStreakNum=f7931a" alt="Mahyar's GitHub Streak" height="175" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMahyarMehri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f7931a&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 ---
