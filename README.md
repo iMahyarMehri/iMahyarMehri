@@ -7,16 +7,9 @@
   </p>
 
   <p>
-    <a href="https://t.me/mahyarmhri">
-      <img src="https://img.shields.io/badge/Telegram-@mahyarmhri-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    &nbsp;
-    <a href="mailto:mahyarmhri1@gmail.com">
-      <img src="https://img.shields.io/badge/Email-mahyarmhri1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Location-Iran%20🇮🇷-blue?style=flat-square" alt="Location" />
-    &nbsp;
+    <a href="https://t.me/mahyarmhri"><img src="https://img.shields.io/badge/Telegram-@mahyarmhri-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
+    <a href="mailto:mahyarmhri1@gmail.com"><img src="https://img.shields.io/badge/Email-mahyarmhri1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/Location-Iran-0077b6?style=flat-square" alt="Location" />&nbsp;
     <img src="https://komarev.com/ghpvc/?username=iMahyarMehri&color=orange&style=flat-square&label=VIEWS" alt="Views" />
   </p>
 
@@ -36,9 +29,20 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,js,ts,wordpress,nextjs,flask,postgres,mysql,sqlite,docker,bash,git,tailwind" alt="Tech Stack" />
-  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" /></a>&nbsp;
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /></a>&nbsp;
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" /></a>&nbsp;
+  <a href="https://wordpress.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress" /></a>&nbsp;
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" /></a>&nbsp;
+  <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask" /></a>&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" /></a>&nbsp;
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" /></a>&nbsp;
+  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" /></a>&nbsp;
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" /></a>&nbsp;
+  <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" /></a>&nbsp;
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /></a>&nbsp;
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" /></a>
 </div>
 
 ---
