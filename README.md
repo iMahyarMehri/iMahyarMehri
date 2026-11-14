@@ -12,7 +12,9 @@
   <!-- Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=iMahyarMehri&color=orange&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    &nbsp;
     <img src="https://img.shields.io/badge/Location-Iran%20%F0%9F%87%AE%F0%9F%87%B7-blue?style=for-the-badge" alt="Location" />
+    &nbsp;
     <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Automation-00b4d8?style=for-the-badge" alt="Focus" />
   </p>
 
@@ -32,9 +34,9 @@ I am a **junior-level web developer and independent software developer** with ha
 
 ---
 
-### 🛠️ Tech Stack & Toolbox
-
 <div align="center">
+
+### 🛠️ Tech Stack & Toolbox
 
 #### 💻 Programming & Scripting Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -75,12 +77,16 @@ I am a **junior-level web developer and independent software developer** with ha
 
 ---
 
+<div align="center">
+
 ### 📊 GitHub Activity & Analytics
 
-<div align="center">
-  <img src="https://github-stats.vercel.app/api?username=iMahyarMehri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f7931a&text_color=c9d1d9&icon_color=f7931a" alt="Mahyar's GitHub Stats" height="175" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=iMahyarMehri&theme=tokyonight&hide_border=true&background=0d1117&stroke=f7931a&ring=f7931a&fire=f7931a&currStreakNum=f7931a" alt="Mahyar's GitHub Streak" height="175" />
+<p align="center">
+  <img src="https://github-stats.vercel.app/api?username=iMahyarMehri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f7931a&text_color=c9d1d9&icon_color=f7931a" width="48%" alt="Mahyar's GitHub Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=iMahyarMehri&theme=tokyonight&hide_border=true&background=0d1117&stroke=f7931a&ring=f7931a&fire=f7931a&currStreakNum=f7931a" width="48%" alt="Mahyar's GitHub Streak" />
+</p>
+
 </div>
 
 ---
@@ -99,6 +105,7 @@ I am a **junior-level web developer and independent software developer** with ha
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-@mahyarmhri-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mahyarmhri)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-@iMahyarMehri-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iMahyarMehri)
 
 <br />
